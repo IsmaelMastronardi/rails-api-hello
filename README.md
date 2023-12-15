@@ -119,7 +119,7 @@ To run the project, execute the following command:
 
 ## 👥 Backedn Link <a name="frontend-link"></a>
 
-- [Backend](https://github.com/IsmaelMastronardi/react-front-end)
+- [frontend](https://github.com/IsmaelMastronardi/react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
